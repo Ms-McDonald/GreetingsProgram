@@ -3,7 +3,7 @@ const d = new Date();
 // Store the value of getHours in variable
 let hour = d.getHours();
 // hour = 15;
-hour = 20;
+// hour = 20;
 // console.log(hour);
 // Create greeting variable
 let greetingText = document.getElementById("greeting-text");
